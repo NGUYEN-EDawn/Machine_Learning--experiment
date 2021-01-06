@@ -289,16 +289,3 @@ def num_four(cla):
 
 
 
-'''cla = Class()
-cla, txt_len = Load_txt(cla, '一.数据源2-逗号间隔.txt')
-cla, xls_len = Load_excel(cla, '一.数据源1.xls', txt_len)
-data_unit(cla, txt_len, xls_len)
-num_one(cla)
-num_two(cla)
-num_three(cla)
-num_four(cla)
-print(cla)'''
-
-
-
-
